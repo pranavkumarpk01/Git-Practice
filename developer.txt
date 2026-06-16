@@ -6,3 +6,12 @@ Team mates
 Pranav
 Netra
 Abhijeet
+
+Developers
+Pranav
+
+QA
+Netra
+
+Doc
+Abhijeet
